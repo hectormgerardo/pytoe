@@ -27,11 +27,7 @@ Execution steps:
 
           https://www.python.org/downloads/
 
-5. Game will ask ye for ip address, if you leave it blank then you gonna start 
-
-as server listener and will print your actual ip addres, share it to your friend. 
-
-If not, then type the hostplayer's ip.
+5. Game will ask ye for ip address, if you leave it blank then you gonna start as server listener and will print your actual ip addres, share it to your friend. If not, then type the hostplayer's ip.
 
 6. Play
 
