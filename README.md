@@ -21,3 +21,10 @@ If not, then type the hostplayer's ip.
 6. Play
 7. Lose
 8. Bye
+
+
+CHANGES!:
+v1 connection doesn't work.
+v2 connection work but game not.
+v3 connection work and game too.
+v4 noticed pytoe doesn't have a UI yet.
