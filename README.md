@@ -17,7 +17,7 @@ Execution steps:
 
     Linux:
 
-          $python34 pytoe.py
+          $python3 pytoe.py
 
     Win2:
 
@@ -27,7 +27,7 @@ Execution steps:
 
           https://www.python.org/downloads/
 
-5. Game will ask ye for ip address, if you leave it blank then you gonna start as server listener and will print your actual ip addres, share it to your friend. If not, then type the hostplayer's ip.
+5. Game will ask ye for ip address, if you leave it blank then you gonna start as server listener and will print your actual ip addres, share it to your friend. If not, then type the hostplayer's ip. (not more)
 
 6. Play
 
@@ -47,4 +47,6 @@ v2 connection work but game not.
 
 v3 connection work and game too.
 
-v4 noticed pytoe doesn't have a UI yet.
+v4 noticed pytoe doesn't have a UI yet. 
+
+v5 Removed some code, for testing purposes... connection failed a lot.
